@@ -1,0 +1,30 @@
+
+.roundabout-holder {
+	list-style:none; 
+	width:1100px; 
+	height:300px; 
+	margin:0px auto;
+	border: none;
+
+}
+.roundabout-moveable-item {
+	font-size:12px; 
+	height:300px; 
+	width:600px; 
+	cursor:pointer; 
+	padding:5px; 
+	border: none;  
+	background:#f9f9f9;
+}
+.roundabout-moveable-item img {
+	height:100%; 
+	width:100%; 
+	background-color:#FFFFFF; 
+	margin:0;
+} 
+.roundabout-in-focus {
+	cursor:auto;
+}
+
+/* Расположение слайдера */
+#featured							{margin:40px 0 40px 0;}
